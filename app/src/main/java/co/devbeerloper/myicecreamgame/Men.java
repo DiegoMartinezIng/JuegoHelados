@@ -9,8 +9,8 @@ public class Men {
 
     public static final float INIT_X =100;
     public static final float INIT_Y =100;
-    public  int SPRITE_SIZE_WIDTH =120;
-    public  int SPRITE_SIZE_HEIGTH=100;
+    public  int SPRITE_SIZE_WIDTH =140;
+    public  int SPRITE_SIZE_HEIGTH=160;
     public static final float GRAVITY_FORCE=10;
     private final int MIN_SPEED = 1;
     private final int MAX_SPEED = 20;
