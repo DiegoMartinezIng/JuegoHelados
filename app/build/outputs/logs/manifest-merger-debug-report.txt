@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\34e927dd7775b015b9efe88b39d3057c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\34dc9c33f1c31e5fecc6dec86705d9e5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\adf6ee1f0df818fb7d48583b2ee50663\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8b9f99163b8331553cd847b0c1c25fe1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\63965ea7d5688dda4d808e201a097473\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ea52ac93b8477b81e74b40ba8e62d789\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\41e128636495f0f8601389963b29ccfc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\6793be60cc1f85610d9055d4382788b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\dc3c1a73cede7cf0787d4b68f70b0486\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\184f47627ce46bf983c3fe34fa25196f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\70def0a338bba97ff45f702cf54e9f9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\eadca3dfbf5961848be2e3a8646e4fd4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e490abe8f07f8f34c164354f2baa2798\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cbd235fa78261507a16765402fe90d2e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\5f4e29b1d31da0de8b8b82cdea667a0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\de1565e34bacd40775c9e71f4a8d993e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b4a8322f949af7fd008aba8b6d4337a6\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\9d91b109ec3837defd8ee129e30d02da\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\20f51cbb7cff59955b4457a15dbc0d78\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ab28b0ae8efcddf93cdfbf5a0a41d90f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\934534502182335dc71898898379291c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6b586d5f3bf5fae54ec83753c676deb4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e594034c2866172b9a7b86ab6b9aa621\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4c4e4f473cd7ea6ae8ed94c1262a8fae\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\46bacec3e8719ac5a3a68fa77f256f87\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6abf74cc85bd5a6f29c1f2d24c5d473d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\da2e61902605026f5850afa70338f8c0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\34dc9c33f1c31e5fecc6dec86705d9e5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\34dc9c33f1c31e5fecc6dec86705d9e5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\de1565e34bacd40775c9e71f4a8d993e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\de1565e34bacd40775c9e71f4a8d993e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b4a8322f949af7fd008aba8b6d4337a6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b4a8322f949af7fd008aba8b6d4337a6\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\de1565e34bacd40775c9e71f4a8d993e\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:9:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:7:9-44
+	android:roundIcon
+		ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:11:9-54
+	android:largeHeap
+		ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:10:9-33
+	android:icon
+		ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:13:9-40
+activity#co.devbeerloper.myicecreamgame.GamePlay
+ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:14:9-55
+	android:name
+		ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:14:19-43
+activity#co.devbeerloper.myicecreamgame.MainActivity
+ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\34e927dd7775b015b9efe88b39d3057c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\34e927dd7775b015b9efe88b39d3057c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\34dc9c33f1c31e5fecc6dec86705d9e5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\34dc9c33f1c31e5fecc6dec86705d9e5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\adf6ee1f0df818fb7d48583b2ee50663\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\adf6ee1f0df818fb7d48583b2ee50663\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8b9f99163b8331553cd847b0c1c25fe1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8b9f99163b8331553cd847b0c1c25fe1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\63965ea7d5688dda4d808e201a097473\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\63965ea7d5688dda4d808e201a097473\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ea52ac93b8477b81e74b40ba8e62d789\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ea52ac93b8477b81e74b40ba8e62d789\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\41e128636495f0f8601389963b29ccfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\41e128636495f0f8601389963b29ccfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\6793be60cc1f85610d9055d4382788b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\6793be60cc1f85610d9055d4382788b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\dc3c1a73cede7cf0787d4b68f70b0486\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\dc3c1a73cede7cf0787d4b68f70b0486\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\184f47627ce46bf983c3fe34fa25196f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\184f47627ce46bf983c3fe34fa25196f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\70def0a338bba97ff45f702cf54e9f9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\70def0a338bba97ff45f702cf54e9f9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\eadca3dfbf5961848be2e3a8646e4fd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\eadca3dfbf5961848be2e3a8646e4fd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e490abe8f07f8f34c164354f2baa2798\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e490abe8f07f8f34c164354f2baa2798\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cbd235fa78261507a16765402fe90d2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cbd235fa78261507a16765402fe90d2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\5f4e29b1d31da0de8b8b82cdea667a0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\5f4e29b1d31da0de8b8b82cdea667a0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\de1565e34bacd40775c9e71f4a8d993e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\de1565e34bacd40775c9e71f4a8d993e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b4a8322f949af7fd008aba8b6d4337a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b4a8322f949af7fd008aba8b6d4337a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\9d91b109ec3837defd8ee129e30d02da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\9d91b109ec3837defd8ee129e30d02da\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\20f51cbb7cff59955b4457a15dbc0d78\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\20f51cbb7cff59955b4457a15dbc0d78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ab28b0ae8efcddf93cdfbf5a0a41d90f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ab28b0ae8efcddf93cdfbf5a0a41d90f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\934534502182335dc71898898379291c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\934534502182335dc71898898379291c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6b586d5f3bf5fae54ec83753c676deb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6b586d5f3bf5fae54ec83753c676deb4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e594034c2866172b9a7b86ab6b9aa621\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e594034c2866172b9a7b86ab6b9aa621\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4c4e4f473cd7ea6ae8ed94c1262a8fae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4c4e4f473cd7ea6ae8ed94c1262a8fae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\46bacec3e8719ac5a3a68fa77f256f87\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\46bacec3e8719ac5a3a68fa77f256f87\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6abf74cc85bd5a6f29c1f2d24c5d473d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6abf74cc85bd5a6f29c1f2d24c5d473d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\da2e61902605026f5850afa70338f8c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\diego\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\da2e61902605026f5850afa70338f8c0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\diego\Downloads\gameIceCream-master\app\src\main\AndroidManifest.xml
